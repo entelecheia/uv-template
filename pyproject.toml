@@ -19,9 +19,9 @@ classifiers = [
 dependencies = ["click>=8.1.7"]
 
 [project.urls]
-Homepage = "https://entelecheia.github.io/tv-template/"
-Repository = "https://github.com/entelecheia/tv-template"
-Documentation = "https://entelecheia.github.io/tv-template/"
+Homepage = "https://entelecheia.github.io/uv-template/"
+Repository = "https://github.com/entelecheia/uv-template"
+Documentation = "https://entelecheia.github.io/uv-template/"
 
 [tool.uv]
 # dependencies = ["click>=8.1.7"]
